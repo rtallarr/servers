@@ -59,10 +59,6 @@ To revoke a permission use `oxide.revoke`
 ## Example list
 
 ```bash
-o.grant group default 
-```
-
-```bash
 o.grant group default randomrespawner.use
 ```
 
@@ -84,34 +80,16 @@ o.grant group default buildingworkbench.use
 
 ```bash
 o.grant group default spawnheli.minicopter.spawn
-```
-
-```bash
 o.grant group default spawnheli.minicopter.fetch
-```
-
-```bash
 o.grant group default spawnheli.minicopter.despawn
+o.grant group default spawnheli.minicopter.nocooldown
 ```
 
 ```bash
 gather.rate dispenser * 10
-```
-
-```bash
 dispenser.scale tree 10
-```
-
-```bash
 dispenser.scale ore 10
-```
-
-```bash
 dispenser.scale corpse 10
-```
-
-```bash
-o.grant group default spawnheli.minicopter.nocooldown
 ```
 
 # Other commands
