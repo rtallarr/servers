@@ -3,7 +3,7 @@
 1. Create a folder for the server.
 2. Create a `start.bat` file inside de server folder.
 3. Run `start.bat` until all files are downloaded
-> **_NOTE:_** It can also be installed via steamcmd [this way](#install-server-alternative).
+> **NOTE:** It can also be installed via steamcmd [this way](#install-server-alternative).
 
 # Installing oxide
 
@@ -11,7 +11,7 @@
 2. Extract the `RustDedicated_Data` folder into the server folder (replace files).
 3. Start the server. New folders should appear.
 4. Install mods into the `oxide/plugins` folder.
-> **_NOTE:_** Remeber to comment the line for updating the server in `start.bat` once installed or updated.
+> **NOTE:** Remeber to comment the line for updating the server in `start.bat` once installed or updated.
 
 
 # Common mods
@@ -57,10 +57,6 @@ To revoke a permission use `oxide.revoke`
 
 
 ## Example list
-
-```bash
-o.grant group default
-```
 
 ```bash
 o.grant group default 
