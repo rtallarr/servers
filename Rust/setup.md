@@ -30,6 +30,7 @@
 - [Skip night](https://umod.org/plugins/skip-night-vote)
 - [Spawn minis](https://umod.org/plugins/spawn-heli)
 - [Stack size](https://umod.org/plugins/stack-size-controller)
+- [Sort button](https://umod.org/plugins/sort-button)
 
 # Permissions
 
@@ -76,6 +77,10 @@ o.grant group default blueprintmanager.WorkbenchLvL1
 
 ```bash
 o.grant group default buildingworkbench.use
+```
+
+```bash
+o.grant group default sortbutton.use
 ```
 
 ```bash
