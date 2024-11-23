@@ -101,6 +101,7 @@ dispenser.scale corpse 10
 
 - `o.version`  Checks oxide version. Useful to see if its installed correctly.
 - `o.reload *`  Reloads all installed plugins.
+- `spawn.fill_groups` - For when scienties/loot boxes aren't spawning
 
 ### Install server - alternative
 
