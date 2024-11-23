@@ -112,3 +112,14 @@ login anonymous
 app_update 258550
 quit
 ```
+
+# Loot entities
+
+![image](https://github.com/user-attachments/assets/ed45dd81-5426-4e67-8054-ef6fb63854a7)
+
+![image](https://github.com/user-attachments/assets/6ddb9559-c662-45fd-aebc-ba7cd6d103d4)
+
+![image](https://github.com/user-attachments/assets/86d9c990-69cf-4f74-a430-468570af1d35)
+
+![image](https://github.com/user-attachments/assets/d69348de-f7da-46b1-b250-dfaf303a6d88)
+
