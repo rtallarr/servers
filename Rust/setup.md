@@ -92,6 +92,10 @@ o.grant group default sortbutton.use
 ```
 
 ```bash
+o.grant group default automatedevents.next
+```
+
+```bash
 o.grant group default spawnheli.minicopter.spawn
 o.grant group default spawnheli.minicopter.fetch
 o.grant group default spawnheli.minicopter.despawn
@@ -114,11 +118,6 @@ o.grant user rtallar wipeprotection.use
 ```bash
 o.grant user rtallar automatedevents.allowed
 ```
-
-```bash
-o.grant user rtallar automatedevents.next
-```
-
 
 # Other commands
 
