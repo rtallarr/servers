@@ -124,6 +124,7 @@ o.grant user rtallar automatedevents.allowed
 - `o.version`  Checks oxide version. Useful to see if its installed correctly.
 - `o.reload *`  Reloads all installed plugins.
 - `spawn.fill_groups` - For when scienties/loot boxes aren't spawning
+- `env.time 12` - Change server time (to day)
 
 ### Install server - alternative
 
