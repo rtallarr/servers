@@ -31,6 +31,14 @@
 - [Spawn minis](https://umod.org/plugins/spawn-heli)
 - [Stack size](https://umod.org/plugins/stack-size-controller)
 - [Sort button](https://umod.org/plugins/sort-button)
+- [Wipe protection](https://umod.org/plugins/wipe-protection)
+- [Automated events](https://umod.org/plugins/automated-events)
+- [Clans](https://umod.org/plugins/clans)
+  - [Better Chat](https://umod.org/plugins/better-chat)
+    - [Clan tags](https://umod.org/plugins/clan-tags)
+
+  
+> **NOTE:** Remeber to change config files for each mod.
 
 # Permissions
 
@@ -96,6 +104,21 @@ dispenser.scale tree 10
 dispenser.scale ore 10
 dispenser.scale corpse 10
 ```
+
+### Example permissions for moderators
+
+```bash
+o.grant user rtallar wipeprotection.use
+```
+
+```bash
+o.grant user rtallar automatedevents.allowed
+```
+
+```bash
+o.grant user rtallar automatedevents.next
+```
+
 
 # Other commands
 
