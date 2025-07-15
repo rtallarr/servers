@@ -137,6 +137,16 @@ app_update 258550
 quit
 ```
 
+# Updating Server
+
+- Update Rust server (only one)
+  - Uncomment `C:\steamcmd\steamcmd.exe +login anonymous +force_install_dir c:\rust_server\ +app_update 258550 +quit`
+  - Or update with `SteamCMD`. Each command in one line.
+    - `login anonymous`
+    - `force_install_dir PATH:\SteamCMD\rust_server\`
+    - `app_update 258550 validate`
+- Install new version from [umod](https://umod.org/games/rust) after update.
+
 # Loot entities
 
 ![image](https://github.com/user-attachments/assets/ed45dd81-5426-4e67-8054-ef6fb63854a7)
